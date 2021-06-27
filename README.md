@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @snenne
+- 👀 I’m interested in history, linguistics, geopolitics
+- 🌱 I’m currently learning react, vue
+- 💞️ I’m looking to collaborate on some discord bots or websites
+- 📫 How to reach me: sennebels@gmail.com
